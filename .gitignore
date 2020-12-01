@@ -1,2 +1,6 @@
 testec2.pem
 ec2-scripts/.terraform/*
+*.tfvars
+ec2-scripts/.terraform*
+*.tfstate
+*.tfstate.backup
